@@ -19,3 +19,23 @@
 9. **Spark MLlib**: MLlib is Apache Spark's scalable machine learning library. It provides scalable implementations of many common machine learning algorithms and tools for feature extraction, transformation, dimensionality reduction, and more.
 
 10. **Fastai**: Fastai is a high-level deep learning library built on top of PyTorch. It aims to make deep learning more accessible through high-level abstractions and best practices.
+
+Otros
+
+- **Theano**:
+
+  - Built on NumPy, Theano is a dynamic Machine Learning framework with a powerful interface, similar to the NumPy library. It is useful for manipulating and evaluating various mathematical expressions. Using Theano with GPU delivers faster results as it can compute 140 times faster on a GPU than a CPU.
+  - Theano helps to build efficient Machine Learning algorithms. It offers faster and stable monitoring of the most complicated variables.
+
+- **NLTK**:
+  - Also known as the Natural Language ToolKit, NLTK is used by a Python web development company to integrate Natural Language Processing. The tool is useful for Deep Learning solutions that require high amounts of text and speech processing.
+  - NLTK works well with FrameNet, WordNet, and Word2Vec for proper language processing. It also offers keyword search, optimization of tokens, voice recognition, and much more to ensure solutions that provide language capabilities work well.
+- **Sonnet**:
+
+  - It is a high-level library designed to perform operations using neural network structures in TensorFlow. It assists with the creation of primary Python objects that relate to a specific part of the neural network. It simplifies the design of the neural network, ensuring developers get the best results out of the process.
+  - Sonnet divides the modules into submodules or can pass to other modules during the internal process. Sonnet Machine Learning models can be easily integrated with TensorFlow code and other high-level libraries.
+
+- **Caffe**:
+  - Caffe, abbreviated as Convolutional Architecture for Fast Feature Embedding, is another ML and DL framework written in C++. It is ideal for production edge delivery, image categorization, and experimenting with research methods. Most startups, mid-sized firms, and academicians use Caffe to deal with computer vision and speech recognition projects. It has an interface that enables developers to transit within CPU & GPU.
+- **H20**:
+  - It is another open-source, business-oriented machine learning Framework. It helps in implementing predictive analytics with mathematics to make decisions based on granular data. It has database-agnostic support with open-source Breed technology to train machines based on data insights. The core code of H2O is in Java, and the REST API enables accessing or embedding it from any external source code or script. Machine learning professionals can extend H2O to work with existing programming languages and tools. ML developers apply it in customer intelligence, analyzing insurance, advertising technology, risk analysis, healthcare, fraud analysis, etc.
