@@ -131,4 +131,9 @@
 Sources:
 
 1. https://hackr.io/blog/machine-learning-frameworks
-2.
+2. https://www.coursera.org/articles/python-machine-learning-library
+3. https://neptune.ai/blog/most-used-tools-frameworks-and-libraries-in-machine-learning-industry-roundup
+4. https://www.projectpro.io/article/machine-learning-frameworks/509
+5. https://www.botreetechnologies.com/blog/top-python-frameworks-for-machine-learning-and-deep-learning/
+6. https://medium.com/bitgrit-data-science-publication/top-machine-learning-frameworks-used-by-data-scientists-47ab9a273c95
+7. https://intellipaat.com/blog/machine-learning-frameworks/
